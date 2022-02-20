@@ -1,0 +1,5 @@
+[profile gsa-oidc]
+output = json
+
+[profile gsa-aws-user]
+credential_process = aws_auth.sh
