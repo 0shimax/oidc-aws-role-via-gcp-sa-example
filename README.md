@@ -1,0 +1,1 @@
+# oidc-aws-role-via-gcp-sa-example
